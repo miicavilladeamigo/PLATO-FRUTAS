@@ -4,3 +4,6 @@ function mostrarAguaVaca() {
 function mostrarAguaCerdo() {
   document.getElementById('SegundaParteCerdo').style.display = 'block';
 }
+function mostrarAguaPollo(){
+  document.getElementById('SegundaPartePollo').style.display = 'block';
+}
