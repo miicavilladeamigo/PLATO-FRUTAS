@@ -1,0 +1,126 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+
+
+body{
+  background: linear-gradient(-75deg, #345138,#1C792B);
+}
+
+
+.AlimentacionSaludable{
+  font-size: 30px;
+  margin-left: 150px;
+  margin-top: 100px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.AlimentacionSaludable::after{
+  content:' ';
+  position: absolute;
+  width: 530px;
+  height: 6px;
+  background-color: white;
+  top: 155px;
+}
+
+.TituloPrincipal{
+margin-left: 150px;
+margin-top: -20px;
+font-size: 40px;
+color: white;
+font-family: 'Open Sans', sans-serif;
+}
+
+.vaca{
+  position: absolute;
+  top: 280px;
+}
+
+
+
+
+
+
+.linea2{
+  margin-top: -220px;
+  margin-left: 800px;
+}
+
+.vitaminas{
+  margin-left: 1065px;
+  margin-top: -60px;
+}
+
+.poblacion{
+  margin-left: 900px;
+  margin-top: 120px;
+}
+
+.agua{
+  margin-left: 1065px;
+  margin-top: -30px;
+}
+
+.info{
+  margin-left: 900px;
+  margin-top: -200px;
+}
+
+.informacion{
+font-size: 25px;
+color: white;
+font-family: 'Roboto', sans-serif;
+margin-left: 840px;
+margin-top: -80px;
+}
+
+.Vitaminas{
+  font-size: 25px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 1020px;
+  margin-top: -55px;
+}
+
+.MedioAmbiente{
+  font-size: 20px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 820px;
+  margin-top: 120px;
+}
+
+.Agua{
+  font-size: 25px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 1050px;
+  margin-top: -45px;
+}
+
+.imagenesCirculo{
+  margin-left: 900px;
+  margin-top: -450px;
+}
+
+
+
+.textosCirculo{
+  margin-top: -300px;
+  margin-left: 115px;
+}
+
+.imagenesCirculo{
+  margin-top: -450px;
+}
+
+.imagenesCirculo img:hover{
+  transform: scale(1.15);
+}
+
+#VeganismoNoEsUnaDieta{
+  display: none;
+}

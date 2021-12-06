@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500&family=Open+Sans:wght@700&display=swap');
+.slider {
+  -webkit-appearance: none;
+  width: 532px;
+  height: 12px;
+  border-radius: 0px;
+  background: #B0D0B3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+  margin-left: 417px;
+  margin-top: 24px;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #1C792B;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #04AA6D;
+  cursor: pointer;
+}
+.kilo-numero{
+  font-family: 'Asap', sans-serif;
+  margin-left: 210px;
+  font-size: 17px;
+}
+.kilo{
+    font-family: 'Asap', sans-serif;
+    margin-left: 420px;
+    font-size: 21.43px;
+}
+.carne{
+  font-family: 'Asap', sans-serif;
+  margin-left: 15px;
+  font-size: 25px;
+  font-weight: 500;
+}
+.personas{
+  font-family: 'Asap', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  text-align: center;
+}
+.linea{
+  color: #32863E;
+  width: 455px;
+  margin-left: 450px;
+  margin-top: -20px;
+}
+.numero{
+  text-align: center;
+  font-family: 'Asap', sans-serif;
+  font-weight: 500;
+  font-size: 25px;
+}
+.numro-persona{
+  text-align: center;
+  font-family: 'Asap', sans-serif;
+  font-weight: 500;
+  font-size: 25px;
+}

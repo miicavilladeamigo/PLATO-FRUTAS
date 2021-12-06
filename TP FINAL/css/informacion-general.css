@@ -1,0 +1,18 @@
+.volver{
+  float: right;
+  margin-top: 21px;
+}
+.boton{
+  background-color: #1C792B;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border: 2px solid #fff;
+  font-family: 'Asap', sans-serif;
+  font-weight: 500;
+}
+#carrusel-slider{
+  height: 500px;
+  margin-left: 50px
+}
